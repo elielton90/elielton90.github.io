@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1498510513
+#1499114383
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -46,7 +46,6 @@ images/fundoempre-sheet0.png
 images/portal-sheet0.png
 images/mascara-sheet0.png
 images/mascara2-sheet0.png
-images/sprite5-sheet0.png
 images/faset-sheet0.png
 images/ogum-sheet0.png
 images/aganju-sheet0.png
@@ -67,6 +66,14 @@ images/masks157749_960_-sheet0.png
 images/spikes-sheet0.png
 images/blacksmoke-sheet0.png
 images/blacksmoke2-sheet0.png
+images/porta2-sheet0.png
+images/fundocredit-sheet0.png
+images/credito3-sheet0.png
+images/deadpool_s_son_x_rwby_part_4_by_deathgrim343da43ie-sheet0.png
+images/blackspearhi-sheet0.png
+images/wim-sheet0.png
+images/parabens-sheet0.png
+images/tiledbackground12.png
 media/videoplayback%20(1).m4a
 media/videoplayback%20(1).ogg
 media/videoplayback%20(2).m4a
@@ -75,6 +82,10 @@ media/videoplayback.m4a
 media/videoplayback.ogg
 media/god%20of%20war%20ii%20ost-%20death%20of%20kratos%20(online-audio-converter.com).m4a
 media/god%20of%20war%20ii%20ost-%20death%20of%20kratos%20(online-audio-converter.com).ogg
+media/x%20gon'%20give%20it%20to%20ya%20(deadpool%20trailer%20theme)%20[tribute%20to%20dmx%20&%20deadpool]%20-%208%20bit%20universe%20(online-audio-converter.com).m4a
+media/x%20gon'%20give%20it%20to%20ya%20(deadpool%20trailer%20theme)%20[tribute%20to%20dmx%20&%20deadpool]%20-%208%20bit%20universe%20(online-audio-converter.com).ogg
+media/god%20of%20war%202%20rhodes%20in%20colossus%202%20(online-audio-converter.com).m4a
+media/god%20of%20war%202%20rhodes%20in%20colossus%202%20(online-audio-converter.com).ogg
 icon-16.png
 icon-32.png
 icon-114.png
