@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1499114383
+#1499200846
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -74,6 +74,8 @@ images/blackspearhi-sheet0.png
 images/wim-sheet0.png
 images/parabens-sheet0.png
 images/tiledbackground12.png
+images/logo-sheet0.png
+images/bladechaos-sheet0.png
 media/videoplayback%20(1).m4a
 media/videoplayback%20(1).ogg
 media/videoplayback%20(2).m4a

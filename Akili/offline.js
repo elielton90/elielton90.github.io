@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499114383,
+	"version": 1499200846,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -75,6 +75,8 @@
 		"images/wim-sheet0.png",
 		"images/parabens-sheet0.png",
 		"images/tiledbackground12.png",
+		"images/logo-sheet0.png",
+		"images/bladechaos-sheet0.png",
 		"media/videoplayback (1).m4a",
 		"media/videoplayback (1).ogg",
 		"media/videoplayback (2).m4a",
