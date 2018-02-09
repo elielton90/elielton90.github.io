@@ -1,24 +1,56 @@
- Elielton 100% com vc!
+# Elielton 100% com vc!
  * * *  
 
 ---
 layout: default
 ---
-Criando **minha** _página_ ~~principal~~.
+# Criando **minha** _página_ ~~principal~~.
 
 # Quem sou ieu:
 
 Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
 
-# Games:
+# Portifólio:
+* Tem q fazer ainda.
 * * *  
+
+
+## Games:
+1. [Akili](https://elielton90.github.io/Akili/)
+2. [Servidor de mensagens](https://jldifrn.github.io/ServidorDeMensagens/)
+* * *
+
+
+## Artes:
+* Projeto Jogos
+
+
+* * *
+
+
+## Projetos:
+* * *
+
+
 # Bizus:
-  **negrito  
+ 1. **negrito  
   
-  _italico  
+2.  _italico  
   
-  ~~riscado  
+3.  ~~riscado  
   
-  3* linha horizontal
+4. 3* linha horizontal
+  
+  
+5. #s uma ou mais" # "criam capitulos ou subcapitulos
+  
+  
+6. *s lista não ordenada
+  
+  
+7. 1s lista ordenada
+
+
+8.
   * * *  
   
