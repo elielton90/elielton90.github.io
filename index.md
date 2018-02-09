@@ -57,6 +57,6 @@ Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
 7. 1s lista ordenada
 
 
-8.
+8....
   * * *  
   
