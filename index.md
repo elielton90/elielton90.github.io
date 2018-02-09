@@ -26,7 +26,7 @@ Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
 
 
 ## Artes:
-* Projeto Jogos
+ ![DR.](https://i.pinimg.com/originals/26/cb/d9/26cbd9139315c7ea28fb424cface8d52.gif)
 
 
 * * *
