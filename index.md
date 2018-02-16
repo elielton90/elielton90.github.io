@@ -1,63 +1,18 @@
-
----
-layout: default
----
-
-# Elielton 100% com vc!
- * * *  
- 
- 
-
-
-# Quem sou eu:
-Eu sou esse cara ai... Elielton Arquimedes 
-
-
- ![Essa é boa](carnaval.jpg)
-
-
-
-# Portifólio:
-* Tem q fazer ainda.
-* * *  
-
-
-## Games:
-1. [![](akili.png)](https://elielton90.github.io/Akili/)
-2. [![](servidor.png)](https://jldifrn.github.io/ServidorDeMensagens/)
-3. [![](profilaxia.png)](https://elielton90.github.io/profilaxia/)
-4. [![](pum.png)](https://elielton90.github.io/PUM/)
-* * *
-
-
-## Artes:
- 
-
-
-
-* * *
-
-
-
-# Bizus:
- 1. **negrito  
-  
-2.  _italico  
-  
-3.  ~~riscado  
-  
-4. 3* linha horizontal
-  
-  
-5. #s uma ou mais" # "criam capitulos ou subcapitulos
-  
-  
-6. *s lista não ordenada
-  
-  
-7. 1s lista ordenada
-
-
-8....# Criando **minha** _página_ ~~principal~~.
-  * * *  
-  
+HTML - Jade - Haml - Erb
+Responsive (Mobile First)
+CSS (Stylus, Sass, Less)
+Css Frameworks (Bootstrap, Foundation)
+Javascript (Design Patterns, Testes)
+NodeJS
+AngularJS - ReactJS
+Grunt - Gulp - Yeoman
+Git
+PHP
+Python
+MySQL - MongoDB
+Scrum and Kanban
+TDD e Continuous Integration
+Projects
+Lorem Lorem
+Ipsum Dolor
+Dolor Lorem
