@@ -9,7 +9,11 @@ layout: default
  
 # Criando **minha** _página_ ~~principal~~.
 
-# Quem sou ieu:
+# Quem sou eu:
+Eu sou esse cara ai... Elielton Arquimedes 
+
+
+ ![Essa é boa](carnaval.jpg)
 
 Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
 
@@ -28,7 +32,7 @@ Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
 
 ## Artes:
  
- ![Essa é boa](carnaval.jpg)
+
 
 
 * * *
