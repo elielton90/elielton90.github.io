@@ -7,7 +7,7 @@ layout: default
  * * *  
  
  
-# Criando **minha** _página_ ~~principal~~.
+
 
 # Quem sou eu:
 Eu sou esse cara ai... Elielton Arquimedes 
@@ -15,7 +15,7 @@ Eu sou esse cara ai... Elielton Arquimedes
 
  ![Essa é boa](carnaval.jpg)
 
-Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
+
 
 # Portifólio:
 * Tem q fazer ainda.
@@ -38,9 +38,6 @@ Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
 * * *
 
 
-## Projetos:
-* * *
-
 
 # Bizus:
  1. **negrito  
@@ -61,6 +58,6 @@ Aluno de games aprendendo a fazer um portfólio com o prof.Marcelo =p
 7. 1s lista ordenada
 
 
-8....
+8....# Criando **minha** _página_ ~~principal~~.
   * * *  
   
