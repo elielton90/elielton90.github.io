@@ -7,7 +7,7 @@ layout: default
 [![](insta.png)](https://www.instagram.com/elielton_torrez/)  
 
 # _Quem sou eu?_  
-(carnaval.jpg)
+![](carnaval.jpg)
 **_Nome _:**Elielton Arquimedes de Oliveira Silva  
 **_Idade _:**18 anos  
 **_Natural de  _:**Ceará-Mirim-RN
