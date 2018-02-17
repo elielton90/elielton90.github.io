@@ -2,7 +2,7 @@
 ---
 layout: default
 ---  
-# Seja Bem-vindo, ao meu Portifólio
+# Sejam Bem-vindos, ao meu Portifólio
 
 
 
