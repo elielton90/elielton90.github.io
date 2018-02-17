@@ -13,7 +13,7 @@ layout: default
 
 **Atualmente curso o 3ªano do curso de Programação de Jogos Digitais do Instituto Federal de Educação,Ciencia e Tecnologia Do Rio Grande do Norte.Campus:Ceará-Mirim.**   
 * * * 
-## *Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017 * 
+## Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017  
  
 ### Games  
 1. Akili [Jogo 1](https://elielton90.github.io/Akili/)  
