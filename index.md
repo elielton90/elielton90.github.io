@@ -7,8 +7,9 @@ layout: default
 
 
 # _Quem sou eu?_ 
-**_Elielton _**
-**Aluno de Programação de Jogos Digitais do Instituto Federal deEducação,Ciencia e Tecnologia Do Rio Grande do Norte.Campus:Ceará-Mirim.**   
+**_Nome _:**Elielton Arquimedes de Oliveira Silva  
+**_Idade _:**18 anos 
+**Atualmente curso o 3ªano do curso de Programação de Jogos Digitais do Instituto Federal de Educação,Ciencia e Tecnologia Do Rio Grande do Norte.Campus:Ceará-Mirim.**   
 * * * 
 # Portifólio 
   _Durante o ano de 2017 e 2018 minha turma de progrmação digital fizemos varios projetos de jogos digitais abaixo você consigirá velos é prestigia-los._
