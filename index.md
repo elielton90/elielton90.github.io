@@ -8,7 +8,8 @@ layout: default
 
 # _Quem sou eu?_ 
 **_Nome _:**Elielton Arquimedes de Oliveira Silva  
-**_Idade _:**18 anos
+**_Idade _:**18 anos  
+**_Natural de  _:**Ceará-Mirim-RN
 
 
 **Atualmente curso o 3ªano do curso de Programação de Jogos Digitais do Instituto Federal de Educação,Ciencia e Tecnologia Do Rio Grande do Norte.Campus:Ceará-Mirim.**   
