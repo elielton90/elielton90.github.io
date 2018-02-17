@@ -24,22 +24,7 @@ layout: default
 
 4. Profilaxia [![](profilaxia.png)](https://elielton90.github.io/profilaxia/)
 * * *  
-## Artes  
 
-
-![]()    
-
-
-![]()
-
-
-* * *   
-
-* * *  
-**negrito  
-_ itálico  
-~~ riscado  
-
-
-
+#### Parceiros: JAJA Entertainement and Bizonho Games
 * * * 
+
