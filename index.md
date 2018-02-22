@@ -55,14 +55,18 @@ layout: default
 
 
 #Artes
+
+Empresa JAJA:
+![](empresa 1.png)
+* * *  
+
+Jogo Akili:
 ![](Telajogo1.png)
 * * *  
 
 
-![](empresa 1.png)
-* * *  
 
-
+Jogo Servidor de mensagens:
 ![](ser.png)
 
 
