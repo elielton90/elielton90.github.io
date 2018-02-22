@@ -46,7 +46,7 @@ layout: default
 ![](Telajogo1.png)
 
 
-![](empresa1.png)
+![](empresa 1.png)
 
 
 * * *  
