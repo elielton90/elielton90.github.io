@@ -74,6 +74,11 @@ Jogo Servidor de mensagens:
 
 # Parceiros: JAJA Entertainement and Bizonho Games
 
-  Os voids: Elielton/victor/ursinho/bisonho
+  Os voids: elielton90.github.io  
+  victor-mesmo.github.io  
+  jldifrn.github.io  
+  eriksonnicacio.github.io
+  
+  
 * * * 
 
