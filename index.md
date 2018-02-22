@@ -56,9 +56,14 @@ layout: default
 
 #Artes
 ![](Telajogo1.png)
+* * *  
 
 
 ![](empresa 1.png)
+* * *  
+
+
+![](ser.png)
 
 
 * * *  
