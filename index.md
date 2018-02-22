@@ -20,9 +20,9 @@ layout: default
 
 **Atualmente curso o 3ªano do curso de Programação de Jogos Digitais do Instituto Federal de Educação,Ciencia e Tecnologia Do Rio Grande do Norte.Campus:Ceará-Mirim.**   
 * * * 
-## Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017  
+# Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017  
  
-### Games  
+## Games  
 1. Akili [![](akili.png)](https://elielton90.github.io/Akili/)
 
 
@@ -38,16 +38,16 @@ layout: default
 
 
 
-#### Influence map
+# Influence map
 ![](map.png)
 
 
-![](aa.mp4)
+#Artes
 
 
 * * *  
 
-###### Parceiros: JAJA Entertainement and Bizonho Games
+# Parceiros: JAJA Entertainement and Bizonho Games
 
   Os voids: Elielton/victor/ursinho/bisonho
 * * * 
