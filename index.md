@@ -76,21 +76,28 @@ Jogo Servidor de mensagens:
 
 
 ![](anima1.gif)
+* * * 
 
 
 ![](anima2.gif)
+* * * 
 
 
 ![](pulo.gif)
+* * * 
 
 
 ![](andando.gif)
+* * * 
 
 
 ![](correr.gif)
+* * * 
 
 
 ![](ataque.gif)
+* * * 
+
 
 # Parceiros: JAJA Entertainement and Bizonho Games
 
