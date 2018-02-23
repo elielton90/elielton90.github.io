@@ -22,6 +22,12 @@ Email:elieltontorres123@gmail.com
 
 **Atualmente curso o 3ªano do curso de Programação de Jogos Digitais do Instituto Federal de Educação,Ciencia e Tecnologia Do Rio Grande do Norte.Campus:Ceará-Mirim.**   
 * * * 
+
+# Mokup
+### Jogo Morte morrida:
+![](mokup.gif)
+
+
 # Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017  
  
 ## Games  
@@ -48,11 +54,6 @@ Email:elieltontorres123@gmail.com
 
 [![](profilaxia.png)](https://elielton90.github.io/profilaxia/)
 * * * 
-
-
-# Mokup
-### Jogo Morte morrida:
-![](mokup.gif)
 
 
 # Influence map
