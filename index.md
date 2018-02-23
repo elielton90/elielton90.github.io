@@ -19,6 +19,9 @@ layout: default
 [![](insta.png)](https://www.instagram.com/elielton_torrez/)  
 
 Email:elieltontorres123@gmail.com
+***
+
+
 
 ![](quem.gif)
 
@@ -40,7 +43,7 @@ Email:elieltontorres123@gmail.com
 
 ### Jogo Morte morrida:
 ![](mokup.gif)
-
+***
 
 
 ![](games.gif) 
