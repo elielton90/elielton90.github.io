@@ -67,12 +67,15 @@ Email:elieltontorres123@gmail.com
 [![](profilaxia.png)](https://elielton90.github.io/profilaxia/)
 * * * 
 
+![](influence.gif)
 
-# Influence map
+
 ![](map.png)
 
 
-#Artes
+![](artes.gif)
+
+
 
 Empresa JAJA:
 ![](empresa 1.png)  
