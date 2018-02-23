@@ -70,8 +70,15 @@ Jogo Servidor de mensagens:
 ![](ser.png)
 
 
-* * *  
+* * *
+# Artes em pixel:  
+![](morte.png)  
+![](p1.gif)  
+![](p2.gif)  
+![](p3.gif)
 
+
+* * *
 # Animações:
 
 
