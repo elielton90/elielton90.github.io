@@ -79,10 +79,10 @@ Jogo Servidor de mensagens:
 ![](morte.png)  
 
 
-![](P1.gif)
+![](personagem1.gif)
 
 
-![](P2.gif)
+![](personagem2.gif)
 
 
 ![](P3.gif)
