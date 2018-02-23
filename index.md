@@ -57,7 +57,9 @@ layout: default
 #Artes
 
 Empresa JAJA:
-![](empresa 1.png)
+![](empresa 1.png)  
+
+
 * * *  
 
 Jogo Akili:
