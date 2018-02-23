@@ -7,13 +7,16 @@ layout: default
 
 ![](eli.gif)
 ***
-# Contatos
+![](contatos.gif)
+
 
 [![](insta.png)](https://www.instagram.com/elielton_torrez/)  
 
 Email:elieltontorres123@gmail.com
 
-# _Quem sou eu?_  
+![](quem.gif)
+
+
 ![](carnaval.jpg)
 
 
@@ -26,14 +29,21 @@ Email:elieltontorres123@gmail.com
 **Atualmente curso o 3ªano do curso de Programação de Jogos Digitais do Instituto Federal de Educação,Ciencia e Tecnologia Do Rio Grande do Norte.Campus:Ceará-Mirim.**   
 * * * 
 
-# Mokup
+![](mok.gif)
+
+
 ### Jogo Morte morrida:
 ![](mokup.gif)
 
 
 # Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017  
  
-## Games  
+![](games.gif) 
+
+# Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017
+
+
+
 1. Akili
 
 
@@ -82,7 +92,11 @@ Jogo Servidor de mensagens:
 
 
 * * *
-# Artes em pixel:  
+
+![](art.gif)
+
+
+
 ![](morte.png)  
 
 
@@ -98,7 +112,8 @@ Jogo Servidor de mensagens:
 
 
 * * *
-# Animações:
+
+![](animac.gif)
 
 
 ![](anima1.gif)
