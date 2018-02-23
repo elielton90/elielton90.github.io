@@ -36,8 +36,7 @@ Email:elieltontorres123@gmail.com
 ![](mokup.gif)
 
 
-# Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017  
- 
+
 ![](games.gif) 
 
 # Jogos  na qual criei e participei com meus colegas da turma de PJD3V no ano de 2017
