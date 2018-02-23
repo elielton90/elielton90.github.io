@@ -73,9 +73,9 @@ Jogo Servidor de mensagens:
 * * *
 # Artes em pixel:  
 ![](morte.png)  
-![](p1.gif)  
-![](p2.gif)  
-![](p3.gif)
+![](P1.gif)  
+![](P2.gif)  
+![](P3.gif)
 
 
 * * *
